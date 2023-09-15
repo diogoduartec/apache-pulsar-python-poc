@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pulsar-apache-poc"
+version = "0.1.0"
+description = ""
+authors = ["Diogo Duarte <duartediogo98@gmail.com>"]
+readme = "README.md"
+packages = [{include = "pulsar_apache_poc"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pulsar-client = "^3.3.0"
+websocket-client = "^1.6.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
