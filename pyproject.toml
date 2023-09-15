@@ -2,7 +2,7 @@
 name = "pulsar-apache-poc"
 version = "0.1.0"
 description = ""
-authors = ["Diogo Duarte <duartediogo98@gmail.com>"]
+authors = ["diogoduartec"]
 readme = "README.md"
 packages = [{include = "pulsar_apache_poc"}]
 
