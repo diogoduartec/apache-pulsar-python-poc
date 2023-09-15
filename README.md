@@ -1,4 +1,4 @@
-# Apache Pulsar with Python - POC
+# Apache Pulsar with Python Client and Websocket
 
 
 ## Setup Standalone Apache Pulsar with docker-compose
